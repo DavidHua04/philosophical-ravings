@@ -1,3 +1,28 @@
+**Title:** The Structure and Implications of Individual Utilitarianism: A Rationalist Philosophy of Self-Centered Value Maximization
+
+**Abstract:**
+This paper explores a philosophical framework termed "Individual Utilitarianism" (IU), which emerges as a rationalist reinterpretation of classical utilitarian thought. Unlike traditional utilitarianism, which seeks to maximize the happiness of all affected parties, IU confines moral and pragmatic evaluation to the conscious individual's subjective utility. The model is internally consistent, logically rigorous, and applicable in both ethical theory and cognitive modeling. This paper defines IU's theoretical foundation, contrasts it with classical utilitarian ethics, examines its psychological plausibility, and demonstrates its implications through hypothetical examples.
+
+---
+
+**1. Introduction**
+
+Classical utilitarianism, as articulated by thinkers such as Jeremy Bentham and John Stuart Mill, is grounded in the ethical imperative to promote the greatest happiness for the greatest number. In contrast, Individual Utilitarianism (IU) posits that ethical obligation and value assessment reside exclusively within the conscious experience of a single individual. From this perspective, others are not denied ontological existence but are functionally treated as environmental elements that influence the individual's utility curve. This paper proposes a structured examination of IU as a coherent but highly individualistic value-maximization philosophy.
+
+---
+
+**2. Core Premises of Individual Utilitarianism**
+
+Individual Utilitarianism rests on five central propositions:
+
+1. The conscious self is the sole evaluator of value and moral relevance.
+2. All external agents are functionally reduced to utility-relevant phenomena.
+3. Every decision is assessed based on its anticipated effect on the self's cumulative happiness or utility.
+4. Utility is quantifiable in subjective terms and modifiable via introspective metrics.
+5. Emotional states are instrumental variables, capable of being repurposed for utility-optimizing behavior.
+
+For instance, one could maintain a melancholic emotional tone not as a response to environmental loss, but as a deliberate cognitive state to suppress impulsive distractions and focus on academic or professional output.
+
 **Figure 1.** Structural Model of Individual Utilitarian Decision Logic (Mermaid Syntax):
 
 ```mermaid
