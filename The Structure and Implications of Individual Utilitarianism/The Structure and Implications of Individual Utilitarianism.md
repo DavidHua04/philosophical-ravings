@@ -80,6 +80,7 @@ flowchart TD
     H --> Z
     I --> Z
     Z --> A2[Next decision point - repeat]
+    A2 --> A
 ```
 
 **Figure 1: Flowchart of Individual Utilitarian Decision-Making.** This diagram shows the iterative process by which an IU agent makes choices. The agent starts by **perceiving the situation** (A). If no other people are relevant (B: “Others involved? No”), the agent simply evaluates options based on direct impact to herself (C). If others are involved (B: “Yes”), the agent assesses how others might influence her utility (D) – for instance, others’ reactions, future reciprocity, emotional responses like empathy or guilt. In either case, the agent then estimates the expected personal utility of outcomes for each possible action (E). Next, the agent identifies which option yields the highest expected utility for herself (F) and chooses that option (G, H, or I depending on which is best). The chosen action is implemented, the outcome occurs, and the agent experiences the result (Z). This leads to a new situation and the process repeats. Importantly, the *only criterion* guiding the choice at decision node F is the agent’s own expected utility. Any effect on others is factored in solely through D (how it boomerangs back to the agent’s well-being). The cycle (A -> ... -> Z -> A2) represents the ongoing nature of life decisions. IU prescribes that at each juncture, the agent should apply this utility-maximizing procedure.
