@@ -14,3 +14,12 @@ Below is a curated index of the writings in this repository. Each entry links di
 ---
 
 Feel free to read, critique, and reflect on any of the pieces. Contributions are welcome if you’re interested in engaging with these topics more deeply.
+
+---
+
+## License
+
+This repository is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
+
+[![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
