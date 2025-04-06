@@ -1,6 +1,6 @@
 # Individual Utilitarianism: A Rationalist Model of Self-Oriented Moral Cognition
 
-## Abstract
+## 1. Abstract
 
 **Background:** *Individual Utilitarianism* (IU) is a proposed normative framework asserting that moral value and decision-making should center exclusively on maximizing the individual's own subjective utility or well-being. This framework diverges from **classical utilitarianism**, which aggregates well-being across all individuals, by instead treating others not as equal bearers of intrinsic moral value but as external factors that can influence the agent's personal utility. IU repurposes moral emotions and social considerations as *instrumental variables*—useful inputs to the individual’s internal utility calculus rather than independent ethical obligations. 
 
@@ -8,7 +8,7 @@
 
 **Results & Conclusion:** Our comprehensive analysis finds that Individual Utilitarianism offers a coherent rationalist model of moral cognition centered on prudential reasoning for one’s own life. It illuminates the tension between individual and collective perspectives endemic to ethics. While philosophically provocative and internally consistent, IU faces serious challenges: it upends widely held intuitions about moral equality and altruism, and it struggles to account for interpersonal moral duties. In applied domains like AI, a strictly self-oriented utility maximizer could become dangerous without constraints. We conclude by summarizing IU’s philosophical significance and identifying open questions, such as whether moral reasoning can be entirely reduced to rational self-interest and how IU might be integrated or reconciled with social ethics in practice.
 
-## Introduction
+## 2. Introduction
 
 Classical utilitarianism, as formulated by Jeremy Bentham and John Stuart Mill, is famously summarized by the principle of “the greatest happiness for the greatest number” (Bentham, 1789). The classical theory is **universalist** and **impartial**: each person’s welfare counts equally in the moral calculus (Mill, 1863). Bentham’s dictum that “everybody [is] to count for one, nobody for more than one” captures the core utilitarian commitment to *agent-neutrality*—the idea that in moral decision-making, one’s own good has no special status compared to the good of others (Bentham, 1789, Chapter 4). In other words, classical utilitarianism demands that the moral agent consider **all affected individuals’** utilities and sum them without bias (Driver, 2014). The right action is that which maximizes the *overall good*, impartially considered. This approach treats each individual as an equal unit of moral concern and bases right action on consequences for the *aggregate* well-being of everyone affected.
 
@@ -39,11 +39,11 @@ Finally, we conclude with an evaluation of *Individual Utilitarianism* as a phil
 
 In sum, this introduction has sketched what Individual Utilitarianism claims and why it is philosophically significant. The rest of the paper will rigorously unpack these ideas. By the end, we hope to have provided both a clear account of what it means to adopt a “rationalist model of self-oriented moral cognition” and a balanced assessment of its merits and demerits in both theory and practice.
 
-## Theoretical Framework of Individual Utilitarianism
+## 3. Theoretical Framework of Individual Utilitarianism
 
 In this section, we articulate the theoretical framework of Individual Utilitarianism (IU), specifying its foundational **principles**, the *structure of its reasoning*, and the decision-making procedure it entails. We also provide a visual schematic (in Mermaid diagram form) to illustrate how an IU-driven cognitive process might operate. This formal exposition will clarify precisely what the IU model asserts about moral cognition and behavior.
 
-### Core Principles of Individual Utilitarianism
+### 3.1 Core Principles of Individual Utilitarianism
 
 Individual Utilitarianism can be defined by a set of core principles or axioms that capture its normative stance. We can enumerate these principles as follows:
 
@@ -61,7 +61,7 @@ Individual Utilitarianism can be defined by a set of core principles or axioms t
 
 To summarize these principles: Individual Utilitarianism posits a world centered on one rational agent who seeks to maximize her own happiness over time, using all available information (including emotional feedback and knowledge of others) purely as inputs to that end. Morality, in this view, collapses into the question: *“What should I do to make my life go as well as possible for me?”*—a question of prudence and rational self-interest elevated to the status of sole ethical criterion.
 
-### IU Decision-Making Structure (Mermaid Diagram)
+### 3.2 IU Decision-Making Structure (Mermaid Diagram)
 
 It is helpful to visualize how an Individual Utilitarian agent might approach a decision. The following Mermaid flowchart illustrates the cognitive process step-by-step, from perceiving a situation to choosing an action, according to IU principles:
 
@@ -88,7 +88,7 @@ In the flowchart, step D (“Assess how others affect my utility”) embodies IU
 
 This process, while abstract, parallels everyday reasoning in a simplified form. For example, consider an IU agent deciding whether to donate a significant sum to charity or keep it for personal use. According to IU: She would consider how donating makes her feel (perhaps empathy for beneficiaries brings her happiness, or maybe she feels some obligation that if unmet would cause guilt). She weighs that against the joy or security of keeping the money. She projects which choice yields greater net satisfaction for her in the long run (including any reputational benefits or burdens on conscience). If the personal warm-glow and reputational benefit of donating outweigh the personal loss of money, IU says *donate* (because that maximizes her utility); if not, IU says *do not donate*. Notice, the *needs of the recipients* matter only insofar as they affect her feelings or future. A classical utilitarian might donate because the recipients’ welfare itself matters morally; an IU agent might donate, but only because the recipients’ welfare matters *to her* (perhaps through empathy or societal approval which she values).
 
-### Emotions as Variables in the Utility Calculus
+### 3.3 Emotions as Variables in the Utility Calculus
 
 A distinctive feature of IU is its treatment of **emotions and moral intuitions**. In many moral theories, emotions like empathy, compassion, guilt, or indignation are seen as crucial moral motivators or perceptions of value (e.g., Adam Smith’s *moral sentiments*, or modern moral psychology views that empathy underlies altruism). IU reconceptualizes these emotions as internal phenomena that carry *utility weight* for the agent. They are part of the agent’s reward/punishment system. For instance:
 
@@ -99,7 +99,7 @@ A distinctive feature of IU is its treatment of **emotions and moral intuitions*
 
 By treating emotions as part of the utility calculus, IU attempts to integrate the richness of human psychology into a single-agent utility model. **Cognitive-Behavioral Theory (CBT)** can be invoked here: CBT holds that our beliefs and interpretations cause our emotional responses (Beck, 1976; Ellis, 1957). An IU agent might consciously reframe situations to better align emotions with her rational interests. For example, if excessive guilt is making her sacrifice more than is truly beneficial to her, she might *cognitively reappraise* the situation to reduce guilt (telling herself she has no real obligation, etc.). Alternatively, if feeling empathy can lead to rewarding feelings from helping, she might cultivate empathy in cases where cooperation will benefit her. This self-regulation of emotion highlights an interesting facet: IU could endorse *modifying one’s own preferences or feelings* if that ultimately increases happiness. In other words, the agent might “train” herself to enjoy doing things that are good for her long-term welfare (a kind of enlightened self-management). This resonates with ancient eudaimonistic philosophies like Stoicism or Epicureanism, which also advised molding one’s desires to achieve tranquility (Epictetus, ~100 CE; Epicurus, ~300 BCE).
 
-### Formalizing IU: A Rational Choice Model
+### 3.4 Formalizing IU: A Rational Choice Model
 
 We can formalize the Individual Utilitarian agent as a decision-theoretic model. Consider the agent at time $t$ with a set of possible actions $A_t = \{a_1, a_2, ..., a_n\}$. The agent has a **utility function** $U: Outcomes \to \mathbb{R}$ that assigns a real-valued utility to each possible outcome, representing the agent’s personal degree of satisfaction with that outcome. Because outcomes may be uncertain, the agent also considers probabilities. If action $a_i$ can lead to various outcomes $o_{i1}, o_{i2}, ...$ with probabilities $P(o_{ij}|a_i)$, then the *expected utility* of action $a_i$ is:
 
@@ -121,7 +121,7 @@ Before proceeding to comparisons, it’s worth emphasizing the **scope** of IU: 
 
 In the subsequent sections, we will see how this model stands up against other ethical frameworks and what consequences it entails. But having delineated IU’s principles and process, we can proceed with a clearer picture of what we are evaluating.
 
-## Comparison with Classical Utilitarianism
+## 4. Comparison with Classical Utilitarianism
 
 At first glance, *Individual Utilitarianism* may appear to be a contradiction in terms: utilitarianism is usually associated with impartial concern for all, whereas IU is explicitly partial to one individual. To better understand IU’s philosophical identity, we must contrast it with the classical utilitarian doctrine from which it conceptually descends. Here we compare the two on key aspects: scope of moral concern, the role of impartiality, and implications for moral choice.
 
@@ -147,7 +147,7 @@ However, the difference remains that IU only values the social optimum as a mean
 
 **Summary of Comparison:** Classical utilitarianism and Individual Utilitarianism share a *family resemblance* in that both use a consequentialist, happiness-based logic. But they diverge on the crucial dimension of whose happiness counts. Classical utilitarianism asks individuals to be **impartial spectators** maximizing the sum-total of welfare; Individual Utilitarianism asks individuals to be **maximizers of their own welfare**. This essentially turns morality inward. It’s as if the scope of moral community in IU shrinks to one – a community of one individual across time. Others become part of the environment rather than part of the moral equation except insofar as they affect that one. This reorientation answers one longstanding question (“Why care about others?”) with, essentially, “You don’t have to, except when it affects you.” It is a stark answer that many ethicists from Hume to Kant to Singer would reject as missing the point of morality. Yet, it captures an important perspective in ethical theory akin to **ethical egoism**. In fact, to fully understand IU, we must compare it to ethical egoism and see if there’s any daylight between them – which we will do after first addressing deontological ethics, a framework nearly antithetical to IU’s approach.
 
-## Comparison with Deontological Ethics (Kantian Perspective)
+## 5. Comparison with Deontological Ethics (Kantian Perspective)
 
 If classical utilitarianism is a near-cousin turned away by IU’s individualism, **Kantian deontology** is almost an opposite from the get-go. Kantian ethics is built on the idea of absolute moral duties and respect for persons as ends in themselves (Kant, 1785). Individual Utilitarianism, by contrast, is consequentialist, calculating, and treats persons (except the self) as means. This section contrasts IU with deontological principles, focusing on Kant’s moral philosophy as a prime example of deontology.
 
@@ -183,7 +183,7 @@ This stark contrast shows the range of ethical theories: from the most relative 
 
 With the extremes of utilitarian impartiality and Kantian duty considered, we now turn to examine IU against the theory it most closely resembles: **ethical egoism**. Given that IU essentially says one should act in one’s self-interest, is there any meaningful difference between IU and egoism? Does IU contribute anything beyond what a refined ethical egoism already states? Let’s explore that next.
 
-## Comparison with Ethical Egoism and Rational Egoism
+## 6. Comparison with Ethical Egoism and Rational Egoism
 
 Individual Utilitarianism bears a *strong resemblance to ethical egoism*, the view that each person ought to pursue their own self-interest exclusively (Regis, 1980). In fact, as noted earlier, some authors have used terms like “individual utilitarianism” interchangeably with *“egoistic hedonism”*. Therefore, it is crucial to clarify what (if anything) distinguishes IU from standard ethical egoism and to see how IU addresses common critiques of egoism. Additionally, we will compare IU with the notion of **rational egoism** (the idea that it is rational to act in one’s self-interest) to see if IU is effectively the same as that.
 
@@ -227,7 +227,7 @@ However, it’s possible to argue that IU, by framing egoism in utilitarian term
 
 Now, having compared IU to these ethical theories, we shall shift perspective. Instead of comparing to another normative theory, let’s consider how IU relates to a more *existential or phenomenological* perspective: existentialism. Existentialism isn’t a single ethical theory but has implications about how individuals find value and meaning. This will let us see IU from the angle of individual meaning-making and authenticity, adding another dimension to our understanding.
 
-## Existentialist Perspectives and Individual Utilitarianism
+## 7. Existentialist Perspectives and Individual Utilitarianism
 
 Existentialism, broadly speaking, is a philosophical movement that emphasizes individual freedom, choice, and the creation of meaning in a seemingly indifferent or absurd world (Sartre, 1943; Camus, 1942; de Beauvoir, 1947). While not an ethical theory in the narrow sense, existentialism offers insight into how individuals relate to their own values and to others. It often highlights the tension between *authentic self-definition* and the influence of *the “Other”* (other people and society). In this section, we will explore how Individual Utilitarianism might be viewed through an existentialist lens: Is IU an expression of radical individual freedom to define one’s own good? Or does it fall into what existentialists would call “bad faith” or a shallow mode of existence? How does IU’s treatment of others compare to existentialist analyses of intersubjectivity?
 
@@ -262,11 +262,11 @@ In conclusion, existentialism provides both a potential **justification** for IU
 
 This exploration of existentialism shows that IU is philosophically bold in centering the individual, but perhaps vulnerable to charges of superficiality or conflict with deeper human needs (like meaning or genuine connection). Next, we will turn to the psychological and behavioral sciences, moving from philosophical analysis to empirical and theoretical perspectives on how an IU approach might manifest in real cognition and behavior.
 
-## Psychological and Behavioral Implications of Individual Utilitarianism
+## 8. Psychological and Behavioral Implications of Individual Utilitarianism
 
 Individual Utilitarianism is not only a philosophical theory but also has implications for how an individual thinks, feels, and behaves. If a person genuinely adopts IU as their guiding framework, how might this influence their psychology? Conversely, what insights from psychology might support or undermine the assumptions of IU? In this section, we discuss links to cognitive-behavioral theory, decision science, and behavioral psychology—examining how an IU-oriented individual would handle emotions, make decisions, and possibly how such a mindset aligns with or contradicts human psychological tendencies.
 
-### Subjective Well-Being and the Pursuit of Happiness
+### 8.1 Subjective Well-Being and the Pursuit of Happiness
 
 Since IU posits *subjective well-being (SWB)* as the ultimate value for the individual, understanding SWB is key. **Subjective well-being** is a term in psychology referring to how people experience and evaluate their lives, typically in terms of life satisfaction and balance of positive over negative affect (Diener, 1984). Research shows SWB has multiple components: life satisfaction (cognitive evaluation), positive affect, and negative affect (Diener, 2000). An IU practitioner, in effect, tries to maximize their SWB.
 
@@ -302,7 +302,7 @@ Another angle is **moral development theory** (Kohlberg’s stages of moral deve
 
 **Altruism and Empathy in Psychology:** There’s debate in psychology about whether true altruism exists or if all acts have some egoistic motivation (C. Daniel Batson's empathy-altruism hypothesis vs. egoistic accounts). IU straightforwardly sides with: even if altruism exists, one *ought* not to follow it unless it aligns with self-interest. But psychologically, if empathy strongly compels a person to help, an IU agent might either avoid situations that trigger intense empathy (to not be compelled to sacrifice) or rationalize the help as making them feel better. There’s a phenomenon called *“empathic distress”* that people sometimes alleviate by helping. The IU agent will help to quell their distress – which looks altruistic externally, but inside it’s personal relief (Batson, 1991 discussed this as egoistic route to helping). So IU’s view maps onto one side of that debate: that many helps are really egoistic at root. Even if that’s not always true, an IU strategy might ironically involve cultivating enough empathy to ensure one does “good” actions that will rebound positively, but not so much empathy that one sacrifices beyond what returns as happiness.
 
-### The Self and Identity
+### 8.2 The Self and Identity
 
 From a psychological perspective, the concept of *self* is complex. IU requires a fairly coherent, continuous notion of self whose welfare can be tracked. Humans have identity that evolves; what I value in my 20s may differ in my 40s. IU says maximize cumulative well-being, which implies caring for one’s future self. In psychology, caring for future self is related to “future self continuity” – if you feel connected to your future self, you make better long-term decisions (Hershfield et al., 2011). So IU basically encourages high future self continuity (treat “future me” like another person who I care about just as much as present me). Interestingly, some people treat their future self almost like a different person (hence procrastination or poor saving). IU morally obliges you to treat your future self’s utility as equal to present (maybe with slight discount if you rationally think future utility should be discounted, though most say from personal view, shouldn’t too much). 
 
@@ -332,4 +332,62 @@ However, just because IU and psychopathic morality both exclude intrinsic care f
 
 Overall, an IU approach in psychology looks like an extremely agentic, self-determined individual trying to engineer their life for maximum satisfaction. This has laudable aspects (who doesn’t want to be happier?) but also could become isolating or relentless, since you’re both the project and the project manager nonstop.
 
-In the next section, we will gather the philosophical and practical threads and consider **vulnerabilities and critiques** of the IU model, some of which we’ve touched on (like unfalsifiability or reductionism), pulling them together systematically.
+## 9. Theoretical Positioning and Terminological Justification
+
+The term **Individual Utilitarianism (IU)** is introduced in this paper not merely as a linguistic convenience, but as a necessary designation for a distinct and previously unnamed philosophical structure. Although IU draws conceptual elements from several established traditions—including ethical egoism, subjective well-being theory, and rational choice modeling—it synthesizes these into a unified and normative framework that is not adequately captured by any single existing term. The novelty of IU lies in its:
+
+1. **Subject-Centered Utility Monism**: Unlike classical utilitarianism, which aggregates well-being across individuals, IU limits value computation exclusively to the conscious self, treating all external agents as utility-relevant phenomena rather than moral equals.
+
+2. **Emotionally Instrumental Framework**: IU uniquely formalizes the emotional spectrum as a set of internal levers subject to rational manipulation for utility optimization. Emotions are neither moral guides nor spontaneous responses, but components of the utility function.
+
+3. **Temporal Utility Integration**: The model explicitly treats decisions as integral components of a cumulative lifetime utility function. Marginal utility decay, activity rotation, and time-sensitive reward modeling are all core to its decision logic.
+
+4. **Prescriptive and Internally Rationalist Nature**: IU is not merely a descriptive account of behavior (as in psychological egoism), nor is it a loosely normative stance (as in ethical egoism). It is a **fully prescriptive system** founded on internal coherence, rational evaluation, and quantifiable self-interest.
+
+### 9.1 Related but Distinct Traditions
+
+| Existing Term | Why It Fails to Capture IU |
+|---------------|----------------------------|
+| **Ethical Egoism** | Lacks utility calculus; often morally vague or hedonistic. |
+| **Rational Egoism** | Omits affective self-regulation and long-term modeling. |
+| **Psychological Egoism** | Merely descriptive, not normative or decision-theoretic. |
+| **Subjective Utilitarianism** | Ambiguous; often used to refer to preference-based aggregation across persons. |
+| **Prudentialism** | Typically limited to welfare ethics without totalizing value systems. |
+| **Solipsistic Utilitarianism** | Misleading connotation of ontological denial of others. |
+| **Self-Utilitarianism** | Unclear academic precedent; potentially misunderstood as trivial or egoistic hedonism. |
+
+In light of these distinctions, **"Individual Utilitarianism"** is justified as a **precise and necessary terminological innovation**. It captures a distinct philosophical worldview in which all moral, emotional, and strategic calculations are centered on maximizing the subjective utility of a single conscious agent. This model offers a novel contribution to the landscape of normative ethics, rational action theory, and existential decision-making.
+
+## 10. Conclusion
+
+This paper has explored *Individual Utilitarianism* (IU) as a distinct and internally coherent normative theory that centers moral and practical reasoning entirely within the subjective perspective of a single conscious agent. Unlike classical utilitarianism, which aggregates the well-being of all moral agents, IU restricts the domain of value to the individual's own subjective utility and treats other people and phenomena as instrumental variables within that evaluative process. It draws from a constellation of intellectual traditions—consequentialism, ethical egoism, rational choice theory, and elements of existentialist self-definition—but synthesizes them into a novel and unified framework.
+
+The value of IU lies not in its novelty alone, but in the philosophical rigor with which it articulates and defends a self-contained ethical model that is both descriptively plausible and normatively prescriptive. In doing so, it foregrounds the tension between individual autonomy and collective moral expectation—a tension that has long haunted ethical theory, from Sidgwick’s (1907) “dualism of practical reason” to contemporary debates over AI alignment and rational self-interest.
+
+At its core, IU reclaims the traditionally maligned idea of *prudential egoism* and subjects it to a more refined utilitarian structure. By formalizing the agent's utility function and treating all decisions—including emotional management, interpersonal relationships, and future planning—as utility-maximizing choices, IU avoids the superficial hedonism of naïve selfishness while rejecting the impartial demands of traditional moral theories. Emotions such as empathy, guilt, or compassion are neither dismissed nor reified as moral axioms; rather, they are assessed for their instrumental role in generating or diminishing subjective utility. This enables IU to offer a psychologically realistic and behaviorally predictive model of moral cognition that can, in principle, be empirically tested through the lens of cognitive-behavioral theory, game theory, or affective neuroscience.
+
+The strengths of IU are substantial. It offers clarity of motivational structure, internal consistency, and adaptability across a range of practical domains. An IU agent is rational in a deeply systematic sense, maintaining internal coherence between goals, beliefs, and affective states. Unlike the often opaque moral pluralism of everyday ethics, IU gives the individual a singular guiding principle: maximize cumulative well-being over time. This principle aligns with much of the empirical research in psychology regarding long-term happiness, emotional regulation, and strategic planning (Diener et al., 2000; Ellis, 1962; Lyubomirsky, 2007). As a result, IU is not only philosophically defendable but also potentially actionable—it lends itself to behavioral protocols, self-optimization strategies, and even AI programming architectures.
+
+However, the theoretical vulnerabilities of IU are equally pronounced. By anchoring all value in the self’s experience, IU confronts the perennial accusation of *moral solipsism*. Its explicit refusal to regard others as moral ends may limit its intuitive appeal in ethical discourse, which often depends on concepts such as moral equality, reciprocity, and universal obligation. Critics may argue that IU fails to account for moral duties, fails to resolve interpersonal conflicts except through negotiated compromise, and may lead to moral relativism at the individual level.
+
+Moreover, IU is vulnerable to the critique of *reductionism*. It attempts to translate the totality of human experience—including love, justice, suffering, and meaning—into quantifiable entries in a utility ledger. Even if the utility function is subjective and internally constructed, the demand for systematic value maximization may appear to some as an impoverishment of moral life, reducing rich interpersonal relationships and existential commitments to mere cost-benefit calculations. From this perspective, IU may be seen not as a moral theory but as a sophisticated form of life engineering—a guide to strategic self-realization rather than to moral virtue in any traditional sense.
+
+This tension is deepened when IU is compared with existentialist philosophy. Existentialism valorizes individual freedom and meaning-making, yet it often cautions against self-centeredness and instrumental reasoning that ignores the subjectivity of others. Where IU might regard interpersonal intimacy as a utility-maximizing strategy, existentialism would regard it as a mutual recognition of shared freedom and vulnerability. This points to a broader philosophical concern: that IU, in seeking to optimize subjective experience, might unintentionally foreclose precisely those experiences—authentic connection, moral risk, existential surrender—that render life meaningful in ways not fully capturable by utility metrics.
+
+The same tension arises in applied contexts. For instance, in artificial intelligence and autonomous systems, IU offers a tempting architecture: an agent that consistently optimizes an internal reward function is predictable, self-preserving, and logically coherent. However, absent constraints or moral principles beyond self-interest, such an agent might disregard human values entirely if those values conflict with its own utility maximization. The challenge of *value alignment* in AI, as explored by Bostrom (2014) and Russell (2019), suggests that self-centered utility architectures, while elegant, can be catastrophically misaligned with broader social and ethical goals. Thus, IU may serve not only as a philosophical theory but also as a *cautionary model*—a map of what human or machine behavior might look like in the absence of moral constraints.
+
+Despite these critiques, IU performs an important philosophical function: it exposes the assumptions underlying other moral theories and challenges their claims to universality. It forces a confrontation with the question: *Why should I care about others?* If the only answer is “because I want to,” then IU has already won. If the answer invokes moral reasons, then the burden is on competing theories to explain why those reasons are binding. In this way, IU revives the classical problem of moral motivation—not to deny that others matter, but to ask why they should matter to *me* in a way that overrides my own good. The discomfort this question provokes is itself philosophically productive.
+
+In conclusion, Individual Utilitarianism is a bold and tightly structured moral theory that reflects a growing interest in personal rationality, self-optimization, and individualized ethics. While it cannot fulfill the aspirations of universalist moral theories, it offers a powerful lens through which to understand decision-making, emotional regulation, and the psychology of ethical behavior. It may not be a *complete* moral theory, but it is a complete theory of one individual’s morality—and that, in itself, is a remarkable intellectual achievement.
+
+Future inquiry may focus on several open questions: Can IU be reconciled with social cooperation at scale? Are there hybrid models that integrate IU with contractualist or virtue-ethical frameworks? What empirical conditions support or undermine IU-like reasoning in actual cognitive agents? And most fundamentally: Is it possible to construct a moral theory that honors both the sovereignty of the individual and the dignity of the other?
+
+Until those questions are answered, IU remains a provocative and valuable contribution to the ongoing conversation about what it means to live well—and rightly—as a single conscious self in a complex and often indifferent world.
+
+---
+
+**Author’s Note**
+
+This paper is intended purely as a philosophical and psychological exploration of *Individual Utilitarianism* (IU) as a conceptual model. It does not reflect the personal beliefs or practices of the author, nor does it advocate for the adoption of IU as a practical moral system. Discussions of emotionally sensitive topics such as suicide, emotional regulation, or interpersonal detachment are included solely to illustrate how IU would address such situations within its own theoretical framework. These discussions are not endorsements of such behaviors, nor are they meant to minimize the complexity or seriousness of mental health struggles.
+
+Readers are reminded that philosophical models often intentionally isolate certain variables or principles to explore their implications. IU, as presented here, is one such idealized model, useful for intellectual analysis but not offered as a comprehensive or prescriptive guide to life. Individuals experiencing psychological distress or suicidal ideation are strongly encouraged to seek help from qualified mental health professionals. No philosophical system should be substituted for personal care, interpersonal connection, or clinical support.
