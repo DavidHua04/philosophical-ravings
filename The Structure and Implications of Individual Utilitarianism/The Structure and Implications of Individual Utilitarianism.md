@@ -385,14 +385,6 @@ Future inquiry may focus on several open questions: Can IU be reconciled with so
 
 Until those questions are answered, IU remains a provocative and valuable contribution to the ongoing conversation about what it means to live well—and rightly—as a single conscious self in a complex and often indifferent world.
 
----
-
-**Author’s Note**
-
-This paper is intended purely as a philosophical and psychological exploration of *Individual Utilitarianism* (IU) as a conceptual model. It does not reflect the personal beliefs or practices of the author, nor does it advocate for the adoption of IU as a practical moral system. Discussions of emotionally sensitive topics such as suicide, emotional regulation, or interpersonal detachment are included solely to illustrate how IU would address such situations within its own theoretical framework. These discussions are not endorsements of such behaviors, nor are they meant to minimize the complexity or seriousness of mental health struggles.
-
-Readers are reminded that philosophical models often intentionally isolate certain variables or principles to explore their implications. IU, as presented here, is one such idealized model, useful for intellectual analysis but not offered as a comprehensive or prescriptive guide to life. Individuals experiencing psychological distress or suicidal ideation are strongly encouraged to seek help from qualified mental health professionals. No philosophical system should be substituted for personal care, interpersonal connection, or clinical support.
-
 ## References
 
 Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books. [https://books.google.com/books/about/The_Evolution_of_Cooperation.html?id=zlHXDwAAQBAJ](https://books.google.com/books/about/The_Evolution_of_Cooperation.html?id=zlHXDwAAQBAJ)
@@ -434,3 +426,11 @@ Rachels, J. (2003). *The Elements of Moral Philosophy* (4th ed.). McGraw-Hill Ed
 Rand, A. (1964). *The Virtue of Selfishness*. Signet. [https://aynrand.org/novels/the-virtue-of-selfishness/](https://aynrand.org/novels/the-virtue-of-selfishness/)
 
 Sartre, J.-P. (1943). *Being and Nothingness*. Philosophical Library. [https://plato.stanford.edu/entries/sartre/](https://plato.stanford.edu/entries/sartre/)
+
+---
+
+**Author’s Note**
+
+This paper is intended purely as a philosophical and psychological exploration of *Individual Utilitarianism* (IU) as a conceptual model. It does not reflect the personal beliefs or practices of the author, nor does it advocate for the adoption of IU as a practical moral system. Discussions of emotionally sensitive topics such as suicide, emotional regulation, or interpersonal detachment are included solely to illustrate how IU would address such situations within its own theoretical framework. These discussions are not endorsements of such behaviors, nor are they meant to minimize the complexity or seriousness of mental health struggles.
+
+Readers are reminded that philosophical models often intentionally isolate certain variables or principles to explore their implications. IU, as presented here, is one such idealized model, useful for intellectual analysis but not offered as a comprehensive or prescriptive guide to life. Individuals experiencing psychological distress or suicidal ideation are strongly encouraged to seek help from qualified mental health professionals. No philosophical system should be substituted for personal care, interpersonal connection, or clinical support.
