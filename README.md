@@ -8,7 +8,7 @@ Below is a curated index of the writings in this repository. Each entry links di
 
 - [The Structure and Implications of Individual Utilitarianism](The%20Structure%20and%20Implications%20of%20Individual%20Utilitarianism/The%20Structure%20and%20Implications%20of%20Individual%20Utilitarianism.md)  
   └ 📄 中文版：[个人效用主义：一种以理性为基础的自我导向道德认知模型](The%20Structure%20and%20Implications%20of%20Individual%20Utilitarianism/个人效用主义：一种以理性为基础的自我导向道德认知模型.md)
-
+- [A Rational Model of Career Decision-Making Under Individual Utilitarianism](A%20Rational%20Model%20of%20Career%20Decision-Making%20Under%20Individual%20Utilitarianism/A%20Rational%20Model%20of%20Career%20Decision-Making%20Under%20Individual%20Utilitarianism.md)
 *(More writings to be added as they are developed or organized.)*
 
 ---
