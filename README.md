@@ -14,7 +14,19 @@ Below is a curated index of the writings in this repository. Each entry links di
 
 ---
 
-Feel free to read, critique, and reflect on any of the pieces. Contributions are welcome if you’re interested in engaging with these topics more deeply.
+
+
+---
+
+## Academic Disclaimer
+
+> All contents in this repository are intended solely as structured theoretical explorations, developed under specific assumptions, conceptual frameworks, and reasoning models.  
+>  
+> The arguments, conclusions, and perspectives presented should be understood as **logical consequences derived from hypothetical premises**, rather than as personal beliefs, value endorsements, or normative claims held by the author.  
+>  
+> **No content in this repository is intended to promote, advocate, criticize, or legitimize any real-world ideology, moral stance, or sociopolitical position.** The materials should not be interpreted as reflective of the author’s real-life opinions, professional affiliations, or institutional views.  
+>  
+> These writings are shared in the spirit of intellectual experimentation and philosophical modeling. The author reserves the right to revise, retract, or reinterpret any content as their thinking evolves. Constructive dialogue is welcomed, particularly where it concerns logical rigor or theoretical refinement. Feel free to read, critique, and reflect on any of the pieces. Contributions are welcome if you’re interested in engaging with these topics more deeply.
 
 ---
 
