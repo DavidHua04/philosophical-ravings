@@ -392,3 +392,45 @@ Until those questions are answered, IU remains a provocative and valuable contri
 This paper is intended purely as a philosophical and psychological exploration of *Individual Utilitarianism* (IU) as a conceptual model. It does not reflect the personal beliefs or practices of the author, nor does it advocate for the adoption of IU as a practical moral system. Discussions of emotionally sensitive topics such as suicide, emotional regulation, or interpersonal detachment are included solely to illustrate how IU would address such situations within its own theoretical framework. These discussions are not endorsements of such behaviors, nor are they meant to minimize the complexity or seriousness of mental health struggles.
 
 Readers are reminded that philosophical models often intentionally isolate certain variables or principles to explore their implications. IU, as presented here, is one such idealized model, useful for intellectual analysis but not offered as a comprehensive or prescriptive guide to life. Individuals experiencing psychological distress or suicidal ideation are strongly encouraged to seek help from qualified mental health professionals. No philosophical system should be substituted for personal care, interpersonal connection, or clinical support.
+
+## References
+
+Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books. [https://books.google.com/books/about/The_Evolution_of_Cooperation.html?id=zlHXDwAAQBAJ](https://books.google.com/books/about/The_Evolution_of_Cooperation.html?id=zlHXDwAAQBAJ)
+
+Batson, C. D. (1991). *The Altruism Question: Toward a Social Psychological Answer*. Psychology Press. [https://www.routledge.com/The-Altruism-Question-Toward-a-Social-Psychological-Answer/Batson/p/book/9780805806738](https://www.routledge.com/The-Altruism-Question-Toward-a-Social-Psychological-Answer/Batson/p/book/9780805806738)
+
+Beck, A. T. (1976). *Cognitive Therapy and the Emotional Disorders*. International Universities Press. [https://www.goodreads.com/book/show/248507.Cognitive_Therapy_and_the_Emotional_Disorders](https://www.goodreads.com/book/show/248507.Cognitive_Therapy_and_the_Emotional_Disorders)
+
+Bentham, J. (1789). *An Introduction to the Principles of Morals and Legislation*. Oxford Clarendon Press. [https://www.utilitarianism.com/jeremy-bentham/index.html](https://www.utilitarianism.com/jeremy-bentham/index.html)
+
+Bostrom, N. (2014). *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press. [https://nickbostrom.com/superintelligence.html](https://nickbostrom.com/superintelligence.html)
+
+Camus, A. (1942). *The Myth of Sisyphus*. Vintage International. [https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus](https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus)
+
+Diener, E. (1984). Subjective well-being. *Psychological Bulletin, 95*(3), 542–575. [https://doi.org/10.1037/0033-2909.95.3.542](https://doi.org/10.1037/0033-2909.95.3.542)
+
+Driver, J. (2014). The History of Utilitarianism. *Stanford Encyclopedia of Philosophy*. [https://plato.stanford.edu/entries/utilitarianism-history/](https://plato.stanford.edu/entries/utilitarianism-history/)
+
+Ellis, A. (1957). Rational psychotherapy and individual psychology. *Journal of Individual Psychology, 13*, 38–44. [https://psycnet.apa.org/record/1958-03586-001](https://psycnet.apa.org/record/1958-03586-001)
+
+Frank, R. H. (1988). *Passions within Reason: The Strategic Role of the Emotions*. W. W. Norton. [https://wwnorton.com/books/9780393956820](https://wwnorton.com/books/9780393956820)
+
+Hershfield, H. E., et al. (2011). Increasing saving behavior through age-progressed renderings of the future self. *Journal of Marketing Research, 48*(SPL), S23–S37. [https://journals.sagepub.com/doi/10.1509/jmkr.48.SPL.S23](https://journals.sagepub.com/doi/10.1509/jmkr.48.SPL.S23)
+
+Kant, I. (1785). *Groundwork of the Metaphysics of Morals*. Cambridge University Press (translated edition). [https://plato.stanford.edu/entries/kant-moral/](https://plato.stanford.edu/entries/kant-moral/)
+
+Kahneman, D., & Tversky, A. (1974). Judgment under Uncertainty: Heuristics and Biases. *Science, 185*(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)
+
+Lyubomirsky, S. (2007). *The How of Happiness*. Penguin Press. [https://www.penguinrandomhouse.com/books/301999/the-how-of-happiness-by-sonja-lyubomirsky/](https://www.penguinrandomhouse.com/books/301999/the-how-of-happiness-by-sonja-lyubomirsky/)
+
+Mill, J. S. (1863). *Utilitarianism*. Parker, Son, and Bourn. [https://www.utilitarianism.com/mill1.htm](https://www.utilitarianism.com/mill1.htm)
+
+Nowak, M. A., & Sigmund, K. (2005). Evolution of indirect reciprocity. *Nature, 437*(7063), 1291–1298. [https://doi.org/10.1038/nature04131](https://doi.org/10.1038/nature04131)
+
+Parfit, D. (1984). *Reasons and Persons*. Oxford University Press. [https://global.oup.com/academic/product/reasons-and-persons-9780198249085](https://global.oup.com/academic/product/reasons-and-persons-9780198249085)
+
+Rachels, J. (2003). *The Elements of Moral Philosophy* (4th ed.). McGraw-Hill Education. [https://www.mheducation.com/highered/product/elements-moral-philosophy-rachels-rachels/M9780078038242.html](https://www.mheducation.com/highered/product/elements-moral-philosophy-rachels-rachels/M9780078038242.html)
+
+Rand, A. (1964). *The Virtue of Selfishness*. Signet. [https://aynrand.org/novels/the-virtue-of-selfishness/](https://aynrand.org/novels/the-virtue-of-selfishness/)
+
+Sartre, J.-P. (1943). *Being and Nothingness*. Philosophical Library. [https://plato.stanford.edu/entries/sartre/](https://plato.stanford.edu/entries/sartre/)
