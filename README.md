@@ -12,12 +12,6 @@ Below is a curated index of the writings in this repository. Each entry links di
 
 *(More writings to be added as they are developed or organized.)*
 
----
-
-
-
----
-
 ## Academic Disclaimer
 
 > All contents in this repository are intended solely as structured theoretical explorations, developed under specific assumptions, conceptual frameworks, and reasoning models.  
@@ -28,7 +22,17 @@ Below is a curated index of the writings in this repository. Each entry links di
 >  
 > These writings are shared in the spirit of intellectual experimentation and philosophical modeling. The author reserves the right to revise, retract, or reinterpret any content as their thinking evolves. Constructive dialogue is welcomed, particularly where it concerns logical rigor or theoretical refinement. Feel free to read, critique, and reflect on any of the pieces. Contributions are welcome if you’re interested in engaging with these topics more deeply.
 
----
+## Contributions
+
+This repository is primarily a personal archive of structured philosophical and theoretical explorations. However, constructive discussion, critique, or suggestions for clarification are welcomed.
+
+- Please open an [Issue](https://github.com/DavidHua04/philosophical-ravings/issues) if you wish to raise questions, propose improvements, or offer alternative perspectives.
+- Pull Requests are accepted selectively — particularly for:
+  - original articles or conceptual notes,
+  - substantial critiques or extensions of existing content,
+  - formatting improvements or structural clarifications.
+
+All contributions should respect the repository’s purpose: to explore speculative and internally coherent ideas without prescriptive or ideological enforcement.
 
 ## License
 
